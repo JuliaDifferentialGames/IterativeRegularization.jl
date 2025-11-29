@@ -14,7 +14,7 @@ IterativeRegularization.jl provides fast, flexible implementations of standard a
 
 ```julia
 using Pkg
-Pkg.add("IterativeRegularization")
+Pkg.add("https://github.com/JuliaDifferentialGames/IterativeRegularization.jl.git")
 ```
 
 ## Development Status
